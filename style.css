@@ -3,13 +3,6 @@
     margin: 0;
     box-sizing: border-box;
 }
-
-h1{
-    padding: 10px;
-    text-align: center;
-    color: green;
-}
-
 .products{
     padding: 20px;
     display: flex;
